@@ -1,8 +1,9 @@
 # Converting XEVO-TQS files to mzXML for analysis with MAVEN
 
 ## Requirements
-Download and install ProteoWizard(https://proteowizard.sourceforge.io/)
-Download and install OpenMS(https://sourceforge.net/projects/open-ms/)
+Download and install [ProteoWizard](https://proteowizard.sourceforge.io/)
+
+Download and install [OpenMS](https://sourceforge.net/projects/open-ms/)
 
 ## Setting up your environment (Cygwin)
 ```
